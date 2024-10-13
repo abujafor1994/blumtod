@@ -1,0 +1,1 @@
+user=%7B%22id%22%3A7156342479%2C%22first_name%22%3A%22Jafor%20Biswas%F0%9F%8D%85%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22Jafor865%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=-1271212649811556400&chat_type=sender&auth_date=1728707830&hash=c2d2695de245ff48b465e52d0c4787d710b9d0a7e2a7382bb707f3cae9720ec6
